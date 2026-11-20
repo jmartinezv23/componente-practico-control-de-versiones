@@ -1,2 +1,4 @@
 Integrante A: Jose Martinez - Rol: Coordinador
 Integrante B: Franklin Cruz - Rol: Documentacion
+Integrante C: TiagoNav24 - Rol: Presentacion
+Materia: Introduccion a la ingenieria de software | Curso: B1
